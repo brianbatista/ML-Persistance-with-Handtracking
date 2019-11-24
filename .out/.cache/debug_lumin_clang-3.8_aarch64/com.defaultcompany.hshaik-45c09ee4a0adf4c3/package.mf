@@ -1,0 +1,297 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "05dc7dcb3be10f6f012dcca349ba9d69ee9fd6fd",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3291032,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "e336d99a8d47448e79122dcade56f7bdc1c5a8f4",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 53349136,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "606ef3d0bbf4429614e84a0cb33972cb087c2430",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\libil2cpp.so-09ba2148aa0bf552",
+   "xfrm_size": 53349894
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "aca4574ee44043a4109e81b66a1d4e12f45cb236",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\AudioPluginMSASpatializer.so-ca98f3b2b1ba75ae",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "8093bb6138e6b27855f421298278839cf71c4a10",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e69fa73fc940c368abeddc9789673b8935091387",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1e0788bbaebdfa29e57e2ee534c6b0ff874e800f",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\UnityMagicLeap.so-ca98f3b2b1ba75ae",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "fed46a2f516a56a8712fde7961b133a2839a3a1e",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\libml_camera_plugin.so-ca98f3b2b1ba75ae",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ccf6deb699dc924f98b4c7ec4f15cfb79b962b2f",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\libml_mediaplayer_plugin.so-ca98f3b2b1ba75ae",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "a5eeaec1a39ec62f72e4f94518f71f0bda645b69",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 770468,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "597c24c66b9a8dfc868c3b5d6d2a8a5b0e8ffaa6",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60144,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "43f061e198c2f47c0a6cb56833f29ca8ebafc91c",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 84400,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "36a4b343e62e36d86d8817f03066956d69e21ff7",
+   "pkgpath": "Data/level0",
+   "size": 6076,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ab65805793388d15a2837e363df1ccb966517059",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "aed4103dff2385aa7ba80fa2ba28f647427b151d",
+   "pkgpath": "Data/resources.assets",
+   "size": 551248,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "8be560f4bf9b642c1495292e78dc0ed5b1c08e4d",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 212204,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d0b867cf3a8813ca25dca125b079fc066fc9a63",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ff035d747f6b6a2135e1a79154ec4dcc3a64f77e",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\Player.elf-66dfafb92c7803e6",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/hshaik/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "204d00928a273f26d573ef65958cf60fd4b33baa",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\libc++_shared.so-c71e15ca831434e1",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "8559c538076d1d31205398e72aadfb10bd2ac724",
+   "pkgpath": "manifest.xml",
+   "size": 3872,
+   "src": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\ML-Persistance-with-Handtracking\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "4221b56c013439ad0029ca41a9b60c9ac804b193",
+     "developer_id": "3358a433-b19d-4a07-935a-b57200b44e25"
+    }
+   },
+   "xfrm_hash": "a96222471941166fc8e0915ca10304a51cafe4a6",
+   "xfrm_path": "C:/Users/hshaik/Desktop/Chapel Hill/Personal Projects/Magic Leap/ML-Persistance-with-Handtracking/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.hshaik-45c09ee4a0adf4c3\\manifest.xml-66dfafb92c7803e6",
+   "xfrm_size": 1366
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\hshaik\\Desktop\\Chapel Hill\\Personal Projects\\Magic Leap\\Keys\\Hello World\\helloworld.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
